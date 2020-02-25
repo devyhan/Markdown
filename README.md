@@ -13,7 +13,7 @@
     #### This is an H4 tag 
     ##### This is an H5 tag
     ###### This is an H6 tag
-> ### 적용 예
+### 적용 예
 ****    
 # This is an H1 tag
 ## This is an H2 tag
@@ -30,7 +30,7 @@
     __This will also be bold__
 
     _You **can** combine them_
-> ### 적용 예
+### 적용 예
 ****
 *This text will be italic*
 _This will also be italic_
@@ -40,4 +40,16 @@ __This will also be bold__
 
 _You **can** combine them_
 ****
-
+## 2.3.리스트(List)
+### 2.3.1.Unordered 리스트
+    * Item 1
+        * Item 2
+          * Item 2a
+          * Item 2b
+ ### 적용 예
+ ****
+* Item 1
+    * Item 2
+    * Item 2a
+    * Item 2b
+ ****
