@@ -157,3 +157,13 @@ function fancyAlert(arg) {
 mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
 mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 ****
+## 3.5.저장소 내의 이슈 참조(Issue references within a repository)
+    #1
+    mojombo#1
+    mojombo/github-flavored-markdown#1
+### 적용 예
+****
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
+****
