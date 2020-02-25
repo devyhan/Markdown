@@ -1,6 +1,6 @@
 # 1.마크다운(Markdown)🏁
 
-## 목차
+## 목차🐾
 * [1.1.마크다운이란 ?](#11마크다운-이란-?)
 * [2.1.공통 마크다운 문법(Global Syntex)🏝](#2공통-마크다운-문법Global-Syntex)
     * [2.1.헤더(Header)](#21헤더Header)
@@ -11,7 +11,7 @@
     * [2.4.이미지(Images)](24이미지Images)
     * [2.5.링크(Links)](25링크Links)
     * [2.6.인용부호(Blockquotes)](26인용부호Blockquotes)
-    * [2.6.인라인 코드(Inline code)](26인라인-코드Inline code)
+    * [2.7.인라인 코드(Inline code)](27인라인-코드Inline-code)
 * [3.깃헙 마크다운 문법(Local Syntex)🏖](3깃헙-마크다운-문법Local-Syntex)
     * [3.1.구문 강조(Syntax highlighting)](31구문-강조Syntax-highlighting)
     * [3.2.작업 목록(Task Lists)](32작업-목록Task-Lists)
@@ -114,7 +114,7 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 ****
-## 2.6.인라인 코드(Inline code)
+## 2.7.인라인 코드(Inline code)
     <addr>에 적용된 부분이
     `<addr>` 인라인 코드 입니다.
 ### 적용 예
