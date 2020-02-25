@@ -170,7 +170,9 @@ mojombo/github-flavored-markdown#1
 ## 3.6.유저이름 @언급(Username @mentions)
 `@`기호를 입력하고 사용자 이름을 입력하면 해당 사람에게 와서 댓글을 보도록 알립니다. 개인을 언급 하고 있기 때문에 이것을“@mention”이라고합니다 . 조직 내 팀을 `@`기호로 언급 할 수도 있습니다.
 ## 3.7.URL 자동링크(Automatic linking for URLs)
-URL `http://www.github.com/`은 클릭 가능한 링크로 자동 변환됩니다.
     자동링크 적용 http://www.github.com/
+URL `http://www.github.com/`은 클릭 가능한 링크로 자동 변환됩니다.
 #### 적용 예
+****
 자동링크 적용 http://www.github.com/
+****
