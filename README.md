@@ -22,7 +22,7 @@
 ##### This is an H5 tag
 ###### This is an H6 tag
 ****
-## 2.2.힘(Emphasis)
+## 2.2.(Emphasis)
     *This text will be italic*
     _This will also be italic_
 
@@ -76,7 +76,28 @@ _You **can** combine them_
 ## 2.5.링크(Links)
     http://github.com - automatic!
     [GitHub](http://github.com)
+### 적용 예
 ****
 http://github.com - automatic!
 [GitHub](http://github.com)
+****
+## 2.6.인용부호(Blockquotes)
+    As Kanye West said:
+
+    > We're living the future so
+    > the present is our past.
+### 적용 예
+****
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+****
+## 2.6.인라인 코드(Inline code)
+    I think you should use an
+    `<addr>` element here instead.
+### 적용 예
+****
+I think you should use an
+`<addr>` element here instead.
 ****
