@@ -147,3 +147,13 @@ function fancyAlert(arg) {
 셀 1의 컨텐츠 | 셀 2의 컨텐츠
 첫 번째 열의 내용 | 두 번째 열의 내용
 ****
+## 3.4.SHA해시 참조(SHA references)
+    16c999e8c71134401a78d4d46435517b2271d6ac
+    mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+    mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+### 적용 예
+****
+16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+****
