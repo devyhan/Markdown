@@ -6,7 +6,7 @@
 
 # 2.마크다운 작성(Syntex)🏝
 
-## 2.1.헤더
+## 2.1.헤더(Header)
     # This is an H1 tag
     ## This is an H2 tag
     ### This is an H3 tag
@@ -22,6 +22,6 @@
 ##### This is an H5 tag
 ###### This is an H6 tag
 ****
-## 2.2.강조
+## 2.2.힘(Emphasis)
     
 
