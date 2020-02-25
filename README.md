@@ -44,12 +44,26 @@ _You **can** combine them_
 ### 2.3.1.Unordered 리스트
     * Item 1
         * Item 2
-          * Item 2a
-          * Item 2b
+        * Item 2a
+        * Item 2b
  ### 적용 예
  ****
-* Item 1
+ * Item 1
     * Item 2
     * Item 2a
     * Item 2b
+ ****
+ ### 2.3.2.Ordered 리스트
+    1. Item 1
+    1. Item 2
+    1. Item 3
+       1. Item 3a
+       1. Item 3b
+ ### 적용 예
+ ****
+ 1. Item 1
+ 1. Item 2
+ 1. Item 3
+    1. Item 3a
+    1. Item 3b
  ****
