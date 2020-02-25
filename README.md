@@ -71,5 +71,5 @@ _You **can** combine them_
     ![GitHub Logo](이미지 Url)
     Format: ![Alt Text](이미지 url)
 ****
-<img src="https://user-images.githubusercontent.com/45344633/75291822-54276d80-5866-11ea-94dd-2ab210ee2766.png" width="450px" height="100px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/45344633/75291822-54276d80-5866-11ea-94dd-2ab210ee2766.png" width="400px" height="100px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 ****
