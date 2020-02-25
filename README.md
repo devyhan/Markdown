@@ -1,11 +1,14 @@
 # 1.마크다운(Markdown)🏁
 
+## 목차
+* [1.1.마크다운이란 ?](#11마크다운-이란-?)
+* [2.1.공통 마크다운 문법(Global Syntex)🏝](#2공통-마크다운-문법Global-Syntex)
+    * [2.1.헤더(Header)](#21헤더Header)
+    * [2.2.강조(Emphasis)](#22강조Emphasis)
+    * [2.3.리스트(List)](#23리스크List)
 ## 1.1.마크다운 이란 ? 
 
 [**Markdown**](http://whatismarkdown.com/)은 텍스트 기반의 마크업언어로 2004년 존그루버에 의해 만들어졌으며 쉽게 쓰고 읽을 수 있으며 HTML로 변환이 가능하다. 특수기호와 문자를 이용한 매우 간단한 구조의 문법을 사용하여 웹에서도 보다 빠르게 컨텐츠를 작성하고 보다 직관적으로 인식할 수 있다.
-
-## 목차
-* [2.공통 마크다운 문법(Global Syntex)](#2공통-마크다운-문법Global-Syntex)
 
 # 2.공통 마크다운 문법(Global Syntex)🏝
 
@@ -25,7 +28,7 @@
 ##### This is an H5 tag
 ###### This is an H6 tag
 ****
-## 2.2.(Emphasis)
+## 2.2.강조(Emphasis)
     *This text will be italic*
     _This will also be italic_
 
