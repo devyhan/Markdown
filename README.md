@@ -105,37 +105,21 @@ As Kanye West said:
 # 3.깃헙 마크다운 문법(Local Syntex)🏖
 
 ## 3.1.구문 강조(Syntax highlighting)
-    ```
-    javascript
+    ```javascript
     function fancyAlert(arg) {
       if(arg) {
         $.facebox({div:'#foo'})
       }
     }
-
-        javascript
-        function fancyAlert(arg) {
-          if(arg) {
-            $.facebox({div:'#foo'})
-          }
-        }
     ```
 ### 적용 예
 ****
-    ```
-    javascript
-    function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
-
-        javascript
-        function fancyAlert(arg) {
-          if(arg) {
-            $.facebox({div:'#foo'})
-          }
-        }
-    ```
-
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 ****
+
