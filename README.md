@@ -7,12 +7,20 @@
 # 2.마크다운 작성(Syntex)🏝
 
 ## 2.1.헤더
-    # 이것은 <h1> 테그 입니다
-    ## 이것은 <h2> 테그 입니다
-    ###### 이것은 <h6> 테그 입니다
+    # This is a H1
+    ## This is a H2
+    ### This is a H3
+    #### This is a H4
+    ##### This is a H5
+    ###### This is a H6
 ### 적용 예
 ****
-## This is h1
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
 ****
 ## 2.2.강조
     
