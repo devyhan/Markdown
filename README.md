@@ -71,6 +71,6 @@ _You **can** combine them_
     ![GitHub Logo](이미지 Url)
     Format: ![Alt Text](url)
 ****
-![GitHub Logo](https://user-images.githubusercontent.com/45344633/75291207-1fff7d00-5865-11ea-8bfd-c7fc49022244.png)
-Format: ![Alt Text](https://user-images.githubusercontent.com/45344633/75291207-1fff7d00-5865-11ea-8bfd-c7fc49022244.png)
+![GitHub Logo](https://user-images.githubusercontent.com/45344633/75291822-54276d80-5866-11ea-94dd-2ab210ee2766.png)
+Format: ![Alt Text](https://user-images.githubusercontent.com/45344633/75291822-54276d80-5866-11ea-94dd-2ab210ee2766.png)
 ****
