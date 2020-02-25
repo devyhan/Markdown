@@ -94,10 +94,10 @@ As Kanye West said:
 > the present is our past.
 ****
 ## 2.6.인라인 코드(Inline code)
-    I think you should use an
-    `<addr>` element here instead.
+    <addr>에 적용된 부분이
+    `<addr>` 인라인 코드 입니다.
 ### 적용 예
 ****
-I think you should use an
-`<addr>` element here instead.
+<addr>에 적용된 부분이
+`<addr>` 인라인 코드 입니다.
 ****
