@@ -7,20 +7,20 @@
 # 2.마크다운 작성(Syntex)🏝
 
 ## 2.1.헤더
-    # This is a H1
-    ## This is a H2
-    ### This is a H3
-    #### This is a H4
-    ##### This is a H5
-    ###### This is a H6
+    # This is an H1 tag
+    ## This is an H2 tag
+    ### This is an H3 tag
+    #### This is an H4 tag 
+    ##### This is an H5 tag
+    ###### This is an H6 tag
 ### 적용 예
-****
-# This is a H1
-## This is a H2
-### This is a H3
-#### This is a H4
-##### This is a H5
-###### This is a H6
+****    
+    # This is an H1 tag
+    ## This is an H2 tag
+    ### This is an H3 tag
+    #### This is an H4 tag 
+    ##### This is an H5 tag
+    ###### This is an H6 tag
 ****
 ## 2.2.강조
     
