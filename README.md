@@ -3,7 +3,7 @@
 
 ## 목차🐾 
 <details> 
-    <summary style="text-align: right;">[접기/펼치기]</summary>
+    <summary>[접기/펼치기]</summary>
     
 * [1.1.마크다운이란 ?](#11마크다운-이란-)
 * [2.1.공통 마크다운 문법(Global Syntex)🏝](#2공통-마크다운-문법Global-Syntex)
