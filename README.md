@@ -1,5 +1,8 @@
 # 1.마크다운(Markdown)🏁
 
+<details>
+<summary>접기/펼치기 버튼</summary>
+<div markdown="1">
 | 목차🐾|
 |:---|
 |* [1.1.마크다운이란 ?](#11마크다운-이란-)|
@@ -22,7 +25,8 @@
 |    * [3.6.유저이름 @언급(Username @mentions)](#36유저이름-@언급Username-@mentions)|
 |    * [3.7.URL 자동링크(Automatic linking for URLs)](#37URL-자동링크Automatic-linking-for-URLs)|
 |    * [3.8.취소선(Strikethrough)](#38취소선Strikethrough)|
-
+    </div>
+</details>
 ## 1.1.마크다운 이란 ? 
 
 [**Markdown**](http://whatismarkdown.com/)은 텍스트 기반의 마크업언어로 2004년 존그루버에 의해 만들어졌으며 쉽게 쓰고 읽을 수 있으며 HTML로 변환이 가능하다. 특수기호와 문자를 이용한 매우 간단한 구조의 문법을 사용하여 웹에서도 보다 빠르게 컨텐츠를 작성하고 보다 직관적으로 인식할 수 있다.
