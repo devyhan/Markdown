@@ -1,9 +1,9 @@
 # 1.마크다운(Markdown)🏁
 
-<details>
+
+| 목차🐾 <details>
 <summary>접기/펼치기 버튼</summary>
-<div markdown="1">
-| 목차🐾|
+<div markdown="1">|
 |:---|
 |* [1.1.마크다운이란 ?](#11마크다운-이란-)|
 |* [2.1.공통 마크다운 문법(Global Syntex)🏝](#2공통-마크다운-문법Global-Syntex)|
