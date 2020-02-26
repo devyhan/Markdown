@@ -4,7 +4,7 @@
 ## 목차🐾 
 <details> 
     <summary>[접기/펼치기]</summary>
-    <div parse_block_html=True>
+    <div parse_inline_html=True>
 * [1.1.마크다운이란 ?](#11마크다운-이란-)
 * [2.1.공통 마크다운 문법(Global Syntex)🏝](#2공통-마크다운-문법Global-Syntex)
     * [2.1.헤더(Header)](#21헤더Header)
