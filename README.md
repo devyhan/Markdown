@@ -4,8 +4,8 @@
 ## 목차🐾 
 <details> 
     <summary>[접기/펼치기]</summary>
-    <div parse_inline_html=True>
-* [1.1.마크다운이란 ?](#11마크다운-이란-)
+    
+** * [1.1.마크다운이란 ?](#11마크다운-이란-) **
 * [2.1.공통 마크다운 문법(Global Syntex)🏝](#2공통-마크다운-문법Global-Syntex)
     * [2.1.헤더(Header)](#21헤더Header)
    * [2.2.강조(Emphasis)](#22강조Emphasis)
@@ -25,7 +25,7 @@
     * [3.6.유저이름 @언급(Username @mentions)](#36유저이름-@언급Username-@mentions)
     * [3.7.URL 자동링크(Automatic linking for URLs)](#37URL-자동링크Automatic-linking-for-URLs)
     * [3.8.취소선(Strikethrough)](#38취소선Strikethrough) 
-    </div>
+
 </details>
 
 ## 1.1.마크다운 이란 ? 
