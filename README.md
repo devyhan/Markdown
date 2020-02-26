@@ -1,28 +1,32 @@
 # 1.마크다운(Markdown)🏁
 
 
-| 목차🐾 <details> <summary>접기/펼치기 버튼</summary> <div markdown="1"> |
-|:---|
-|* [1.1.마크다운이란 ?](#11마크다운-이란-)|
-|* [2.1.공통 마크다운 문법(Global Syntex)🏝](#2공통-마크다운-문법Global-Syntex)|
-|    * [2.1.헤더(Header)](#21헤더Header)|
-|   * [2.2.강조(Emphasis)](#22강조Emphasis)|
-|    * [2.3.리스트(List)](#23리스트List)|
-|      * [2.3.1.Unordered 리스트](#231unordered-리스트)|
-|      * [2.3.2.Ordered 리스트](#232ordered-리스트)|
-|   * [2.4.이미지(Images)](#24이미지Images)|
-|    * [2.5.링크(Links)](#25링크Links)|
-|    * [2.6.인용부호(Blockquotes)](#26인용부호Blockquotes)|
-|    * [2.7.인라인 코드(Inline code)](#27인라인-코드Inline-code)|
-|* [3.깃헙 마크다운 문법(Local Syntex)🏖](#3깃헙-마크다운-문법Local-Syntex)|
-|    * [3.1.구문 강조(Syntax highlighting)](#31구문-강조Syntax-highlighting)|
-|    * [3.2.작업 목록(Task Lists)](#32작업-목록Task-Lists)|
-|    * [3.3.표(Tables)](#33표Tables)|
-|    * [3.4.SHA해시 참조(SHA references)](#34SHA해시-참조SHA-references)|
-|    * [3.5.저장소 내의 이슈 참조(Issue references within a repository)](#35저장소-내의-이슈-참조Issue-references-within-a-repository)|
-|    * [3.6.유저이름 @언급(Username @mentions)](#36유저이름-@언급Username-@mentions)|
-|    * [3.7.URL 자동링크(Automatic linking for URLs)](#37URL-자동링크Automatic-linking-for-URLs)|
-|    * [3.8.취소선(Strikethrough)](#38취소선Strikethrough) </div> </details>|
+## 목차🐾 
+<details> 
+    <summary style="color: blue; font-size: 10px;">[접기/펼치기]</summary> 
+    <div markdown="1"> 
+* [1.1.마크다운이란 ?](#11마크다운-이란-)
+* [2.1.공통 마크다운 문법(Global Syntex)🏝](#2공통-마크다운-문법Global-Syntex)
+    * [2.1.헤더(Header)](#21헤더Header)
+   * [2.2.강조(Emphasis)](#22강조Emphasis)
+    * [2.3.리스트(List)](#23리스트List)
+      * [2.3.1.Unordered 리스트](#231unordered-리스트)
+      * [2.3.2.Ordered 리스트](#232ordered-리스트)
+   * [2.4.이미지(Images)](#24이미지Images)
+    * [2.5.링크(Links)](#25링크Links)
+    * [2.6.인용부호(Blockquotes)](#26인용부호Blockquotes)
+    * [2.7.인라인 코드(Inline code)](#27인라인-코드Inline-code)
+* [3.깃헙 마크다운 문법(Local Syntex)🏖](#3깃헙-마크다운-문법Local-Syntex)
+    * [3.1.구문 강조(Syntax highlighting)](#31구문-강조Syntax-highlighting)
+    * [3.2.작업 목록(Task Lists)](#32작업-목록Task-Lists)
+    * [3.3.표(Tables)](#33표Tables)
+    * [3.4.SHA해시 참조(SHA references)](#34SHA해시-참조SHA-references)
+    * [3.5.저장소 내의 이슈 참조(Issue references within a repository)](#35저장소-내의-이슈-참조Issue-references-within-a-repository)
+    * [3.6.유저이름 @언급(Username @mentions)](#36유저이름-@언급Username-@mentions)
+    * [3.7.URL 자동링크(Automatic linking for URLs)](#37URL-자동링크Automatic-linking-for-URLs)
+    * [3.8.취소선(Strikethrough)](#38취소선Strikethrough) 
+    </div> 
+</details>
 
 ## 1.1.마크다운 이란 ? 
 
